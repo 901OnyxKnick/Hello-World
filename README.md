@@ -8,7 +8,7 @@
 
 ## Favorite Aircraft
 
-**F-22 Raptor** One of my *favorite* [FIREPOWER](https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor)aircraft!! **I think my biggest dream would be to fly in one of these Aircraft**
+**F-22 Raptor** One of my [*favorite*](https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor)aircraft!! **I think my biggest dream would be to fly in one of these Aircraft**
 
 
 I have two
