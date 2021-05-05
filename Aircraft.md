@@ -1,6 +1,2 @@
-<html>
-  <body>
-    <h1> Aircrafts </h1>
-        <p> It doesn't matter if you are flying civilian or military, planes are truly amazing.<img src="G550_Jet.jpg"  alt"Trulli" width"500" height"333">
-  </body
-</html>
+## Favorite Aircraft
+**F-22 Raptor** One of my [*favorite*](https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor)  aircraft.
