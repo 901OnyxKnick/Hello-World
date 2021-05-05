@@ -7,7 +7,7 @@
 </html>
 
 ## Favorite Aircraft
-**F-22 Raptor** One of my [*favorite*](https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor)  <a href="aircraft. Aircraft.md"><CLICK HERE</a>
+**F-22 Raptor** One of my [*favorite*](https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor) aircraft.  <a href="Aircraft.md"><CLICK HERE</a>
 
 
 ## Why I chose Information Technology as my major
