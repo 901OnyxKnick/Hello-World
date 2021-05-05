@@ -4,8 +4,8 @@
 
 ## Self driven cars such as :
 <ul>
-  <li> [Tesla](https://www.tesla.com/) </li>
-  <li> [Waymo](https://waymo.com/) </li>
-  <li> [Volvo](https://group.volvocars.com/company/innovation/autonomous-drive) </li>
+  <li> <a href="https://www.tesla.com/">*Tesla*</a></li>
+  <li> <a href="https://waymo.com/">*Waymo*</a> </li>
+  <li> <a href="https://group.volvocars.com/company/innovation/autonomous-drive">*Volvo* </li>
 </ul>
 <p1> are all apart of the next generation of autonomous vehicles. As the world continue to evolve, technology will become key in our life. Auto-pilot have been a feature used on aircrafts for many generations, and they are now developing that for cars. Self-driven cars is a key reason in why I chose Information Technology as my major. It was the last big push I needed. Technology will soon become the center of America. </p1>
