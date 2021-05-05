@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <body>
@@ -8,3 +9,6 @@
 
 ## Favorite Aircraft
 **F-22 Raptor** One of my [*favorite*](https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor)  aircraft.
+=======
+
+>>>>>>> c5b0638613bd9ccbbfca59e0debf66e1f5678e99
