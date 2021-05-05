@@ -4,9 +4,7 @@
 <img src="https://user-images.githubusercontent.com/77600540/117094254-eeb3f400-ad28-11eb-80fe-6075ade20425.jpg" />
 <h1> A BLOCK OF CODE I WROTE ON PYTHON </h1>
 <img src="https://user-images.githubusercontent.com/77600540/117094389-4e120400-ad29-11eb-9876-a3cb415183b9.png">
-import turtle
-
-<i> turtle.speed(10)
+<i> import turtle turtle.speed(10)
 from turtle import *
 from turtle import Turtle
 turtle.bgcolor("red")
