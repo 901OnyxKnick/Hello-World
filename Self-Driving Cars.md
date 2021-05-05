@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/77600540/117092052-c4f7ce80-ad22-11eb-884a-9e1c942cd085.jpg" />
 <h2> I DONT NEED HUMANS, I CAN DRIVE MYSELF </h2>
 <p> Technology is slowly, but surely becoming key to the world we live in today. Due to technology, COVID-19 was survivable, and Americans did what they had to do mitigate the spread through the use of technology. Technology is booming at an all time high, and it is here to stay for the duration of my time as a human.</p>
 
