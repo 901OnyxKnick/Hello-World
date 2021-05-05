@@ -11,10 +11,11 @@
 
 
 ## Why I chose Information Technology as my major
-<p2> Self driving cars []</p2>
+<p2> Self driving cars </p2>
 
-##Iron Man
-<p3>
+## Iron Man
+<p3> It's a must we dedicate a page to Elon Musk </p3>
+
 
 
 
