@@ -9,7 +9,7 @@ My name is Knicklaus Thomas, and I am originally from [Memphis, TN](https://www.
 
 
 ## Why I chose Information Technology as my major
- Self driving cars [Cars](Self-Driving Cars.md)
+ Self driving cars [Cars](Auto.md)
 
 ## Iron Man
  It's a must we dedicate a page to [ELON](ELONMUSK.md)
