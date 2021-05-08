@@ -1,5 +1,0 @@
-[README](README.md) /[Aircraft](Aircraft.md) /[Cars](Self-Driving Cars.md) /[Me](AboutME.md)
-## ELON MUSK
-<img src ="https://user-images.githubusercontent.com/77600540/117093388-6cc2cb80-ad26-11eb-8150-e467133b0eae.jpg" />
- I think it is safe to say Elon Musk is the real-life Iron Man </h1>
- Elon Musk is a person who has a dream and a vision like no other. Recently his aircraft landed[Four Astronauts](https://www.washingtonpost.com/technology/2021/05/01/spacex-crew-1-nasa-astronauts-headed-home-after-six-month-stay-international-space-station/) home from a 6-month stay on the International Space Station. Imagine the kind of time, technology, and sweat went into building this aircraft for our Astronauts. Elon Musk is also a key innovator in the Autonomous car world, while booming in the world of billionaires. Key innovators like Jeff Bezos, Mark Zuckerberg, and Elon Musk are key reasons why technology have become a great thing today.  I felt that it was only right to honor Elon Musk in my Github profile, the guy is like Iron Man.
